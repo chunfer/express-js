@@ -18,7 +18,7 @@
   "license": "ISC",
   "dependencies": {
     "@hapi/boom": "^9.1.2",
-    "@sentry/node": "^6.2.5",
+    "@sentry/node": "^6.3.0",
     "@sentry/tracing": "^6.2.5",
     "bcrypt": "^5.0.1",
     "chalk": "^3.0.0",
